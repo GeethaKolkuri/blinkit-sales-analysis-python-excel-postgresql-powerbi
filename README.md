@@ -171,7 +171,7 @@ blinkit-sales-analysis-python-excel-postgresql-powerbi/
 ├── blinkit EtoE proj 3 pgsql.sql
 ├── blinkit EtoE proj 3 dashboard.pbix
 ├── Full blinkit EtoE 3rd proj excel (1).xlsx
-├── BlinkIT Grocery Data(1).xlsx
+├── BlinkIT Grocery Data.xlsx
 ├── power bi blinkit dashboard.jpg
 └── excel blinkit dashboard.jpg
 ```
